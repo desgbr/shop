@@ -1,2 +1,2 @@
 # shop
-## live preview -> https://desgbr.github.io/shop/
+## live preview -> [click here](https://desgbr.github.io/shop/)
